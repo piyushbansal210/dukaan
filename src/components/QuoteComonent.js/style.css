@@ -1,0 +1,32 @@
+.quote {
+  background-color: purple;
+  margin: 0 13%;
+  padding: 1% 13%;
+  /* margin: -2% 13% 13% 2%; */
+}
+
+.quote > h4 {
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 42px;
+  /* identical to box height, or 117% */
+
+  letter-spacing: -0.04em;
+
+  color: #1a181e;
+}
+.qouteItems {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.quoteItem {
+  padding: 8px 12px;
+  font-size: 16px;
+  flex-basis: calc(50% - 5px);
+  font-weight: 400;
+  background-color: #f2f2f2;
+  border-radius: 4px;
+}

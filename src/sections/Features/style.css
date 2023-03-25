@@ -1,0 +1,26 @@
+/* .feature_container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.features {
+  background-color: rgba(20, 110, 180, 0.05);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5% 13%;
+} */
+
+.feature-grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 30px 0;
+}
+
+.features {
+  padding: 30px 160px;
+  background-color: rgba(20, 110, 180, 0.05);
+}

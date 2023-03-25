@@ -1,0 +1,25 @@
+.products_container {
+  display: grid;
+  grid-template-columns: repeat(3, 0fr);
+}
+
+.product {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 42px;
+  letter-spacing: -0.04em;
+  color: #1a181e;
+  padding: 10px;
+  margin-bottom: 30px;
+}
+
+.product_outer_container {
+  padding: 0 160px;
+  margin: 60px 0;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}

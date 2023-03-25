@@ -1,0 +1,39 @@
+.logo_style {
+  width: auto;
+}
+
+.header {
+  background-color: rgba(20, 110, 180, 1);
+  height: 328px;
+  width: 100%;
+}
+
+.header_inner {
+  display: flex;
+  justify-content: space-between;
+  padding: 2% 13%;
+}
+
+.sign_in {
+  color: rgba(255, 255, 255, 1);
+  margin-right: 20px;
+  font-size: 18px;
+}
+
+.dukaan_button {
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 4px;
+  padding: 10px;
+}
+
+.dukaan_button_text {
+  color: rgba(20, 110, 180, 1);
+  font-size: 18px;
+}
+
+.header_right_section {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: center;
+}

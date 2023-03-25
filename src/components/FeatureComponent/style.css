@@ -1,0 +1,38 @@
+.feature {
+  width: 330px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.title_feature {
+  font-family: "regular";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  /* identical to box height, or 140% */
+
+  text-align: center;
+
+  /* colors/black/12 */
+
+  color: #1a181e;
+}
+
+.feature > span {
+  font-family: "regular";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* or 150% */
+
+  text-align: center;
+
+  /* colors/black/30 */
+
+  color: #4d4d4d;
+}
