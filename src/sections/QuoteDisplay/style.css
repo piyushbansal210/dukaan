@@ -1,5 +1,5 @@
 .quote_container {
   /* background-color: rgba(242, 242, 242, 1); */
-  background-color: orange;
-  border: 1px solid orange;
+  background-color: rgba(26, 24, 30, 0.06);
+  border: 1px solid rgba(26, 24, 30, 0.06);
 }
