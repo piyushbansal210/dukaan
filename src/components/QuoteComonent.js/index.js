@@ -21,7 +21,7 @@ const QuoteComponent = () => {
       url: "https://quotel-quotes.p.rapidapi.com/search",
       headers: {
         "content-type": "application/json",
-        "X-RapidAPI-Key": "a08ca9e7d9msh5b3197ff7119886p1bb713jsna9f9356d394c",
+        "X-RapidAPI-Key": "c9f25495f9msh17abd383aa6bfcep172625jsnc72ec9eb63dd",
         "X-RapidAPI-Host": "quotel-quotes.p.rapidapi.com",
       },
       data: info,
